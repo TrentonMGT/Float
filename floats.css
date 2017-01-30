@@ -1,7 +1,6 @@
 /**
  * Float Layout Activity 
  **/
-
 * {
   box-sizing: border-box;
   text-align: center;
@@ -12,7 +11,6 @@ body {
 }
 
 header {
-
 	padding: 20px;
 	margin-bottom: 20px;
 	color: #333;
@@ -29,15 +27,16 @@ section {
 	padding: 20px;
 	margin-bottom: 20px;
 	width: 33.3%;
-	color: #666;
+	color: #FFF;
   	background: #ccc;
   	float: left;
+  	t
 }
 
 #middle {
 	padding: 20px;
 	margin-bottom: 20px;	
-	color: #333;
+	color: #FFF;
   	background: #888;
   	width: 33.3%;
   	float: left; 
@@ -49,24 +48,30 @@ section {
 	margin-bottom: 20px;
 	width: 33.3%;
 	float: left;
+	color: #FFF;
 }
 
 #full {
 	background: #eee;
 	margin-top: 100px;
+	padding-top: 40px;
+	padding-bottom: 43px;
 }
 
 #division {
 	background: #6ea3da;
-	margin-bottom: 30px;
+	margin-bottom: 15px;
 	padding: 15px;
+	padding-top: 18px;
 }
 
 aside {
 	background: #fff;
 	float: left;
-	padding: 45px;
+	padding: 50px;
 	margin-left: 20px;	
+	padding-bottom: 40px;
+	padding-top: 36px;
 }
 
 footer {
